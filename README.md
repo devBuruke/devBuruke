@@ -1,9 +1,9 @@
 ### Olá ! Eu sou o Bruno de Assunção, tenho 19 anos comecei a programar por volta de junho de 2022.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruFk7&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBuruke&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruFk7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBuruke&layout=compact)
 
 
 ### Tecnologias que eu Utilizo
