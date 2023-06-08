@@ -1,16 +1,33 @@
-### Hi there 👋
+### Olá ! Eu sou o Bruno de Assunção, tenho 19 anos comecei a programar por volta de junho de 2022.
 
-<!--
-**devBuruke/devBuruke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuruFk7&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuruFk7&layout=compact)
+
+
+### Tecnologias que eu Utilizo
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  ></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></img>
+</div>
