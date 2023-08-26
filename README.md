@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Bruno de Assunção, tenho 19 anos comecei a programar por volta de junho de 2022.
+### Olá ! Eu sou o Bruno de Assunção, tenho 20 anos comecei a programar por volta de junho de 2022.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBuruke&show_icons=true&theme=radical)
