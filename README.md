@@ -31,3 +31,11 @@
 <div style="display: inline_block"></br> 
 <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></img>
 </div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
+</div>
+
+<div style="display: inline_block"></br> 
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+</div>
